@@ -14,8 +14,8 @@ class ExampleUnitTest {
     fun addition_isCorrect() {
         //assertEquals(4, 2 + 2)
         val expected = 4
-        val actual = 5
-        
+        val actual = 4
+
         assertEquals(expected, actual)
     }
 }
