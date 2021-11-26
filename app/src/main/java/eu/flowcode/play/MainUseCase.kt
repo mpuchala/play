@@ -10,4 +10,9 @@ class MainUseCase {
     fun execute2(vv: Int){
 
     }
+
+    //And next change
+    fun execute2(){
+
+    }
 }
