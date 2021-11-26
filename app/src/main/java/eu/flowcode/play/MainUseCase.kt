@@ -6,7 +6,7 @@ class MainUseCase {
         return amount + 12
     }
 
-    fun execute2(v: Int){
+    fun execute2(vv: Int){
 
     }
 }
