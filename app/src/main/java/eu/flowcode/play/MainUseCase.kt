@@ -5,4 +5,8 @@ class MainUseCase {
     fun execute(amount: Int): Int{
         return amount + 12
     }
+
+    fun execute2(i: Int){
+
+    }
 }
