@@ -1,5 +1,5 @@
 package eu.flowcode.play
-//Cheery Picked
+//Cherry Picked
 class MainUseCase {
     //We have another fix here
     fun execute(amount: Int): Int{
